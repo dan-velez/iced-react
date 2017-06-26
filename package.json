@@ -1,0 +1,22 @@
+{
+  "name": "iced-react",
+  "version": "1.0.0",
+  "description": "A dual extension to CoffeeScript (iced-coffee-script and cjsx)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "iced-react": "bin/iced-react.js"
+  },
+  "keywords": [
+    "react",
+    "coffeescript"
+  ],
+  "author": "dannynpmjs",
+  "license": "ISC",
+  "dependencies": {
+    "iced-react-loader": "^1.0.1",
+    "react": "^15.6.1"
+  }
+}
